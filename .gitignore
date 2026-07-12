@@ -1,2 +1,5 @@
 project1/dirwatch
+project5/*.o
+project5/virtmem
+project5/myvirtualdisk
 
